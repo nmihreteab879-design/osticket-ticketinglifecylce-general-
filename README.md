@@ -44,19 +44,19 @@ Created a new ticket so the agents can deal with the issue. Creating the initial
 
   <img width="767" height="924" alt="image" src="https://github.com/user-attachments/assets/d3d4fa90-37ed-4c5e-8f99-47678b8d9548" />
  
- I Assigned the ticket to the Online Banking team and applied the Sev-A SLA to reflect the system-wide outage and left a description of the problem. 
+ I Assigned the ticket to the Online Banking team and applied the Sev-A SLA to reflect the system-wide outage and left a description of the problem. Assigning the ticket to the *Online Banking team* and applying the **Sev-A SLA** ensures that critical business functions receive immediate attention. This reflects how issues that affect
  
- <img width="766" height="952" alt="image" src="https://github.com/user-attachments/assets/d465f0ca-ce79-467b-98da-74f654e62ace" />
+  <img width="766" height="952" alt="image" src="https://github.com/user-attachments/assets/d465f0ca-ce79-467b-98da-74f654e62ace" />
  
- I logged in as an agent named jane and assigned the ticket to myself
+ I logged in as an agent named jane and assigned the ticket to myself. Logging in as a specific agent (Jane) and taking ownership simulates accountability in IT support. When tickets are assigned to specific individuals, it prevents confusion and ensures clear responsibility for follow-up and resolution.
  
  <img width="759" height="229" alt="image" src="https://github.com/user-attachments/assets/709169f3-cf10-464b-9ade-f9be24775a94" />
  
- I documented all the things I did to solve the problem and what I did to resolve it 
+ I documented all the things I did to solve the problem and what I did to resolve it. Documenting troubleshooting steps helps maintain transparency and provides a record for future reference. Good documentation ensures that if the issue reoccurs, other agents can understand what was done and why.
  
  <img width="757" height="865" alt="image" src="https://github.com/user-attachments/assets/f11a35ab-3de8-4c82-b217-054f2e567761" />
  
-  I changed the priority to emergency in this step because I missed this step earlier and I resolved the ticket because the problem was solved
+  I changed the priority to emergency in this step because I missed this step earlier and I resolved the ticket because the problem was solved. Adjusting the priority to *Emergency* aligns the system’s workflow with real-time urgency. Closing the ticket once resolved confirms that service has been restored, completing the lifecycle from creation to resolution.
 
 
 ### Scenario 2: Accounting Software Issue  
@@ -64,11 +64,11 @@ Users in the accounting department were unable to access the Adobe suite require
 
  <img width="760" height="943" alt="image" src="https://github.com/user-attachments/assets/e0eb4d7b-7d83-4111-b7fd-b362c0915e01" />
  
- I created a new ticket
+ I created a new ticket. Creating a ticket for a departmental software issue shows how even smaller, localized problems are tracked systematically. This ensures visibility for both users and management on progress and accountability.
  
 -<img width="1512" height="956" alt="image" src="https://github.com/user-attachments/assets/6c18b9fe-2dbc-4ae5-b7c2-18896fa42506" />
 
-I assigned the ticket to john doe I made the priority normal, and I made the sla sev-c. 
+I assigned the ticket to john doe I made the priority normal, and I made the sla sev-c. Setting the SLA to **Sev-C** and assigning to an agent like *John Doe* demonstrates prioritization of workload. Non-critical issues are still handled efficiently without disrupting more urgent incidents.
 
 
 ### Scenario 3: CFO Laptop Problem  
@@ -76,11 +76,11 @@ The CFO reported that their laptop would not power on, representing a high-prior
 
 <img width="1506" height="958" alt="image" src="https://github.com/user-attachments/assets/338d7ad1-7051-4740-a2ac-b7dbe7e25269" />
 
-I created a new ticket
+I created a new ticket. Creating a ticket for an executive user demonstrates the importance of recognizing business impact. Executive issues often have wider implications, such as delaying financial operations or decision-making.
 
 <img width="1469" height="950" alt="image" src="https://github.com/user-attachments/assets/26b31f96-70ff-42a9-966f-08991559d275" />
 
-I changed the sla to sev-b I assigned it to a specific agent named jhon doe then I logged in as jhon doe and solved the issue. I also documented this 
+I changed the sla to sev-b I assigned it to a specific agent named jhon doe then I logged in as jhon doe and documented how I solved the issue. Escalating the issue to Sev-B and assigning to a named agent reflects real-world prioritization where VIP users or leadership receive higher urgency. Documenting actions reinforces professionalism and accountability in IT communication.
 
 
 ## Key Takeaways  
