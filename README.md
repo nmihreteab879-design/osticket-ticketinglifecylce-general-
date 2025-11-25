@@ -57,7 +57,7 @@ Documenting the steps helps the team understand what happened and prevents repea
 - Writing clear technical updates  
 
 
-# Scenario 2 – Adobe Software Not Working (Low Impact)
+### Scenario 2 – Adobe Software Not Working (Low Impact)
 
 ### What Happened  
 Several accounting users could not open Adobe Reader.
@@ -88,7 +88,7 @@ Simple fixes still need clear documentation so the next agent knows what was don
 - Writing accurate resolution notes  
 
 
-# Scenario 3 – CFO’s Laptop Not Working (High Impact User Issue)
+### Scenario 3 – CFO’s Laptop Not Working (High Impact User Issue)
 
 ### What Happened  
 A ticket was submitted because the CFO’s laptop would not turn on.
@@ -119,7 +119,7 @@ Learning to evaluate impact, not just the technical problem, is an important hel
 - Professional communication and documentation  
 
 
-# Skills Demonstrated Throughout the Project
+### Skills Demonstrated Throughout the Project
 
 ### Technical Skills
 - Ticket lifecycle management  
@@ -136,7 +136,7 @@ Learning to evaluate impact, not just the technical problem, is an important hel
 - Documenting fixes for team visibility  
 
 
-# Summary
+### Summary
 
 This project shows real help desk responsibilities: taking in user issues, classifying them correctly, troubleshooting problems, documenting everything, and closing tickets.  
 It demonstrates technical ability, communication skills, and the decision-making needed in an IT support role.
