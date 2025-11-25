@@ -57,7 +57,6 @@ Documenting the steps helps the team understand what happened and prevents repea
 - Troubleshooting system-wide outages  
 - Writing clear technical updates  
 
----
 
 # Scenario 2 – Adobe Software Not Working (Low Impact)
 
@@ -67,10 +66,16 @@ Several accounting users could not open Adobe Reader.
 ### Key Actions 
 - create ticket
 - Reviewed the ticket  
+
+<img width="760" height="943" alt="image" src="https://github.com/user-attachments/assets/e0eb4d7b-7d83-4111-b7fd-b362c0915e01" />
+
 - Set the SLA to a low-priority option (Sev-C)  
 - Assigned the ticket to the appropriate agent  
 - Performed simple troubleshooting and confirmed a restart fixed the issue  
-- Documented the solution and closed the ticket  
+- Documented the solution and closed the ticket
+  
+  <img width="1512" height="956" alt="image" src="https://github.com/user-attachments/assets/6c18b9fe-2dbc-4ae5-b7c2-18896fa42506" />
+
 
 ### Why these actions matter  
 Most help desk issues are minor, and correctly classifying them prevents them from delaying more important work.  
@@ -82,7 +87,6 @@ Simple fixes still need clear documentation so the next agent knows what was don
 - Basic software troubleshooting  
 - Writing accurate resolution notes  
 
----
 
 # Scenario 3 – CFO’s Laptop Not Working (High Impact User Issue)
 
@@ -91,12 +95,17 @@ A ticket was submitted because the CFO’s laptop would not turn on.
 
 ### Key Actions  
 - created ticket
-- Reviewed the ticket and understood who it affected  
+- Reviewed the ticket and understood who it affected
+ 
+  <img width="1506" height="958" alt="image" src="https://github.com/user-attachments/assets/338d7ad1-7051-4740-a2ac-b7dbe7e25269" />
+
 - Set a more urgent SLA (Sev-B) because it involved an executive  
 - Investigated the issue  
 - Found the problem was a broken charger  
 - Replaced the charger and confirmed the laptop worked  
-- Documented the fix and resolved the ticket  
+- Documented the fix and resolved the ticket
+
+  <img width="1469" height="950" alt="image" src="https://github.com/user-attachments/assets/26b31f96-70ff-42a9-966f-08991559d275" />
 
 ### Why these actions Matter  
 Even simple problems become high impact when they involve critical users.  
@@ -108,7 +117,6 @@ Learning to evaluate impact, not just the technical problem, is an important hel
 - Hardware troubleshooting  
 - Professional communication and documentation  
 
----
 
 # Skills Demonstrated Throughout the Project
 
@@ -126,7 +134,6 @@ Learning to evaluate impact, not just the technical problem, is an important hel
 - Following support workflows  
 - Documenting fixes for team visibility  
 
----
 
 # Summary
 
