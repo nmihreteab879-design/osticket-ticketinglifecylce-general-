@@ -36,10 +36,12 @@ A user submitted a ticket saying the entire mobile banking system was down.
 
 - Documented troubleshooting steps  
 - Identified a failed update, rolled it back, and restored service
+- Assign the ticket to Jane Doe from the Online banking team
 
   <img width="757" height="865" alt="image" src="https://github.com/user-attachments/assets/f11a35ab-3de8-4c82-b217-054f2e567761" />
-
+- changed the priority to emergency because I forgot in the first step
 - Closed the ticket once the system was working again
+  
 
 
 
@@ -66,7 +68,6 @@ Several accounting users could not open Adobe Reader.
 <img width="760" height="943" alt="image" src="https://github.com/user-attachments/assets/e0eb4d7b-7d83-4111-b7fd-b362c0915e01" />
 
 - create ticket
-- Reviewed the ticket  
 
   <img width="1512" height="956" alt="image" src="https://github.com/user-attachments/assets/6c18b9fe-2dbc-4ae5-b7c2-18896fa42506" />
 
@@ -97,7 +98,6 @@ A ticket was submitted because the CFO’s laptop would not turn on.
   <img width="1506" height="958" alt="image" src="https://github.com/user-attachments/assets/338d7ad1-7051-4740-a2ac-b7dbe7e25269" />
 
 - created ticket
-- Reviewed the ticket and understood who it affected
  
   <img width="1469" height="950" alt="image" src="https://github.com/user-attachments/assets/26b31f96-70ff-42a9-966f-08991559d275" />
 
