@@ -4,7 +4,6 @@
 
 # osTicket - Post-Installation Configuration
 
-This project focuses on shaping osTicket into a fully functional help desk platform after installation. Instead of documenting every single click, this write-up highlights the core configurations that determine how tickets are routed, prioritized, secured, and handled in a real IT support environment. Each section explains why the configuration matters and what skill it demonstrates.
 
 ## Environments and Technologies Used
 - Microsoft Azure (Virtual Machines)
